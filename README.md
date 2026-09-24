@@ -15,7 +15,7 @@
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## 👋 About Me
 
@@ -50,7 +50,7 @@ I build projects to understand how systems work, how they can be secured, and ho
 </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## 🛠️ Tech Stack
 
@@ -72,7 +72,7 @@ I build projects to understand how systems work, how they can be secured, and ho
 | 🤖 **AI & Data** | Machine Learning · LLMs · Ollama · Data Analysis |
 | 📊 **Visualization** | Dash · Plotly |
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## 💼 Portfolio
 
@@ -84,27 +84,27 @@ I build projects to understand how systems work, how they can be secured, and ho
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## 🚀 Featured Projects
 
 <div align="center">
 
 <!-- TODO: replace each link below with the real repo URL, e.g. https://github.com/martin8281/your-repo -->
-<a href="https://github.com/martin8281?tab=repositories"><img src="assets/ai-red-team.svg" width="49%" alt="AI Red Team Assistant" /></a>
-<a href="https://github.com/martin8281?tab=repositories"><img src="assets/one-health.svg" width="49%" alt="ONE Health Dashboard" /></a>
+<a href="https://github.com/martin8281?tab=repositories"><img src="ai-red-team.svg" width="49%" alt="AI Red Team Assistant" /></a>
+<a href="https://github.com/martin8281?tab=repositories"><img src="one-health.svg" width="49%" alt="ONE Health Dashboard" /></a>
 
-<a href="https://github.com/martin8281?tab=repositories"><img src="assets/log-monitor.svg" width="49%" alt="Log Monitor" /></a>
-<a href="https://github.com/martin8281?tab=repositories"><img src="assets/password-exposure.svg" width="49%" alt="Password Exposure Analyzer" /></a>
+<a href="https://github.com/martin8281?tab=repositories"><img src="log-monitor.svg" width="49%" alt="Log Monitor" /></a>
+<a href="https://github.com/martin8281?tab=repositories"><img src="password-exposure.svg" width="49%" alt="Password Exposure Analyzer" /></a>
 
-<a href="https://github.com/martin8281?tab=repositories"><img src="assets/lexipass.svg" width="49%" alt="LexiPass" /></a>
-<a href="https://github.com/martin8281?tab=repositories"><img src="assets/ssh-assessment.svg" width="49%" alt="SSH Auth Assessment Tool" /></a>
+<a href="https://github.com/martin8281?tab=repositories"><img src="lexipass.svg" width="49%" alt="LexiPass" /></a>
+<a href="https://github.com/martin8281?tab=repositories"><img src="ssh-assessment.svg" width="49%" alt="SSH Auth Assessment Tool" /></a>
 
 <sub>⚠️ LexiPass and the SSH Auth Assessment Tool are for **authorized testing and educational use only**. Use them only on systems you own or have written permission to test.</sub>
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## 📚 Experience
 
@@ -124,7 +124,7 @@ I build projects to understand how systems work, how they can be secured, and ho
       ▼
 ```
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## 📈 GitHub Stats
 
@@ -137,7 +137,7 @@ I build projects to understand how systems work, how they can be secured, and ho
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## 🔭 Currently
 
@@ -146,7 +146,7 @@ I build projects to understand how systems work, how they can be secured, and ho
 - 🌱 Learning more about **digital forensics** workflows
 - 🤝 Open to collaborations, research, hackathons, and internships
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## 🌱 Beyond Code
 
