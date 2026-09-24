@@ -130,8 +130,8 @@ I build projects to understand how systems work, how they can be secured, and ho
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=martin8281&show_icons=true&bg_color=0b0720&border_color=3b2a7a&title_color=c4b5fd&icon_color=a855f7&text_color=e0e7ff&ring_color=8b5cf6&border_radius=16" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martin8281&layout=compact&bg_color=0b0720&border_color=3b2a7a&title_color=c4b5fd&text_color=e0e7ff&border_radius=16" alt="Top languages" />
+<img src="stats.svg" width="49%" alt="GitHub stats" />
+<img src="languages.svg" width="49%" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com?user=martin8281&background=0b0720&border=3b2a7a&stroke=3b2a7a&ring=a855f7&fire=c4b5fd&currStreakNum=e0e7ff&sideNums=e0e7ff&currStreakLabel=c4b5fd&sideLabels=a78bfa&dates=8b7fc7&border_radius=16" alt="GitHub streak" />
 
