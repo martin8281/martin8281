@@ -9,6 +9,7 @@
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Profile-00E5A8?style=for-the-badge&logo=vercel&logoColor=black)](https://bycu-careers.vercel.app/?student=087_eltwct7VWBBiLffFLFFz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-martin--thomas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/martin-thomas)
 [![GitHub](https://img.shields.io/badge/GitHub-martin8281-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/martin8281)
 ![Location](https://img.shields.io/badge/Bengaluru-India-FF9933?style=for-the-badge&logo=googlemaps&logoColor=white)
@@ -72,6 +73,18 @@ I build projects to understand how systems work, how they can be secured, and ho
 | 🔐 **Cybersecurity** | Nmap · Wireshark · Burp Suite · Digital Forensics · VAPT · Network Security |
 | 🤖 **AI & Data** | Machine Learning · LLMs · Ollama · Data Analysis |
 | 📊 **Visualization** | Dash · Plotly |
+
+---
+
+## 💼 Portfolio
+
+<div align="center">
+
+**My CHRIST University Placements 2025-26 profile (MSc AI & Cybersecurity)**
+
+[![Open Portfolio](https://img.shields.io/badge/🚀%20Open%20My%20Portfolio-00E5A8?style=for-the-badge&logoColor=black)](https://bycu-careers.vercel.app/?student=087_eltwct7VWBBiLffFLFFz)
+
+</div>
 
 ---
 
@@ -211,6 +224,7 @@ A Python + Django tool for evaluating SSH authentication weaknesses through auto
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/View-Portfolio-00E5A8?style=for-the-badge&logo=vercel&logoColor=black)](https://bycu-careers.vercel.app/?student=087_eltwct7VWBBiLffFLFFz)
 [![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/martin-thomas)
 [![GitHub](https://img.shields.io/badge/Follow%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/martin8281)
 
