@@ -1,23 +1,21 @@
-<!-- Banner -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Martin%20Thomas&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%C2%B7%20Cyber%20Security%20%C2%B7%20Digital%20Forensics&descSize=20&descAlignY=60" alt="Martin Thomas banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0720,50:2e1065,100:6d28d9&height=220&section=header&text=Martin%20Thomas&fontSize=56&fontColor=e9d5ff&animation=fadeIn&fontAlignY=38&desc=AI%20%C2%B7%20Cyber%20Security%20%C2%B7%20Digital%20Forensics&descSize=20&descColor=c4b5fd&descAlignY=60" alt="Martin Thomas banner" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00E5A8&center=true&vCenter=true&width=640&lines=M.Sc.+AI+%26+Cyber+Security+%40+CHRIST+University;Securing+systems.+Making+security+analysis+smarter.;VAPT+%C2%B7+Forensics+%C2%B7+LLM+Security+%C2%B7+Red+Teaming" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=C4B5FD&center=true&vCenter=true&width=640&lines=M.Sc.+AI+%26+Cyber+Security+%40+CHRIST+University;Securing+systems.+Making+security+analysis+smarter.;VAPT+%C2%B7+Forensics+%C2%B7+LLM+Security+%C2%B7+Red+Teaming" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Profile-00E5A8?style=for-the-badge&logo=vercel&logoColor=black)](https://bycu-careers.vercel.app/?student=087_eltwct7VWBBiLffFLFFz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-martin--thomas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/martin-thomas)
-[![GitHub](https://img.shields.io/badge/GitHub-martin8281-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/martin8281)
-![Location](https://img.shields.io/badge/Bengaluru-India-FF9933?style=for-the-badge&logo=googlemaps&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Learning%20%26%20Building-00E5A8?style=for-the-badge)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Profile-a855f7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1e1b4b)](https://bycu-careers.vercel.app/?student=087_eltwct7VWBBiLffFLFFz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-martin--thomas-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1b4b)](https://linkedin.com/in/martin-thomas)
+[![GitHub](https://img.shields.io/badge/GitHub-martin8281-4c1d95?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1b4b)](https://github.com/martin8281)
+![Location](https://img.shields.io/badge/Bengaluru-India-312e81?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1e1b4b)
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 👋 About Me
 
@@ -52,7 +50,7 @@ I build projects to understand how systems work, how they can be secured, and ho
 </tr>
 </table>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 🛠️ Tech Stack
 
@@ -60,11 +58,11 @@ I build projects to understand how systems work, how they can be secured, and ho
 
 **Languages & Frameworks**
 
-<img src="https://skillicons.dev/icons?i=py,ts,js,html,css,mysql,django,flask,fastapi&perline=9" alt="languages and frameworks" />
+<img src="https://skillicons.dev/icons?i=py,ts,js,html,css,mysql,django,flask,fastapi&perline=9&theme=dark" alt="languages and frameworks" />
 
 **Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=git,github,linux&perline=3" alt="tools" />
+<img src="https://skillicons.dev/icons?i=git,github,linux&perline=3&theme=dark" alt="tools" />
 
 </div>
 
@@ -74,7 +72,7 @@ I build projects to understand how systems work, how they can be secured, and ho
 | 🤖 **AI & Data** | Machine Learning · LLMs · Ollama · Data Analysis |
 | 📊 **Visualization** | Dash · Plotly |
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 💼 Portfolio
 
@@ -82,88 +80,31 @@ I build projects to understand how systems work, how they can be secured, and ho
 
 **My CHRIST University Placements 2025-26 profile (MSc AI & Cybersecurity)**
 
-[![Open Portfolio](https://img.shields.io/badge/🚀%20Open%20My%20Portfolio-00E5A8?style=for-the-badge&logoColor=black)](https://bycu-careers.vercel.app/?student=087_eltwct7VWBBiLffFLFFz)
+[![Open Portfolio](https://img.shields.io/badge/🚀%20Open%20My%20Portfolio-a855f7?style=for-the-badge&labelColor=1e1b4b)](https://bycu-careers.vercel.app/?student=087_eltwct7VWBBiLffFLFFz)
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### 🤖 AI Red Team Assistant
-An intelligent security assessment platform that helps **authorized** penetration testers. It analyzes assessment inputs and returns structured findings, risk analysis, and recommendations, **without performing attacks automatically**.
+<!-- TODO: replace each link below with the real repo URL, e.g. https://github.com/martin8281/your-repo -->
+<a href="https://github.com/martin8281?tab=repositories"><img src="assets/ai-red-team.svg" width="49%" alt="AI Red Team Assistant" /></a>
+<a href="https://github.com/martin8281?tab=repositories"><img src="assets/one-health.svg" width="49%" alt="ONE Health Dashboard" /></a>
 
-`AI` `Red Teaming` `Risk Analysis`
+<a href="https://github.com/martin8281?tab=repositories"><img src="assets/log-monitor.svg" width="49%" alt="Log Monitor" /></a>
+<a href="https://github.com/martin8281?tab=repositories"><img src="assets/password-exposure.svg" width="49%" alt="Password Exposure Analyzer" /></a>
 
-[🔗 View Project](https://github.com/martin8281)
+<a href="https://github.com/martin8281?tab=repositories"><img src="assets/lexipass.svg" width="49%" alt="LexiPass" /></a>
+<a href="https://github.com/martin8281?tab=repositories"><img src="assets/ssh-assessment.svg" width="49%" alt="SSH Auth Assessment Tool" /></a>
 
-</td>
-<td width="50%" valign="top">
+<sub>⚠️ LexiPass and the SSH Auth Assessment Tool are for **authorized testing and educational use only**. Use them only on systems you own or have written permission to test.</sub>
 
-### 🌍 ONE Health Dashboard
-A data-driven dashboard built during my **IISc research internship**, bringing **human, animal, and environmental health data** together for visualization and analysis, with an integrated AI chatbot.
+</div>
 
-`Dash` `Plotly` `Data Viz` `Chatbot`
-
-[🔗 View Project](https://github.com/martin8281)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🖥️ Log Monitor
-A Python desktop application that monitors **file activity, USB devices, and Windows event logs** in real time for security visibility.
-
-`Python` `Monitoring` `Windows Logs`
-
-[🔗 View Project](https://github.com/martin8281)
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 Password Exposure Analyzer
-A defensive tool for analyzing password exposure and identifying security risks tied to compromised credentials.
-
-`Python` `Credential Security`
-
-[🔗 View Project](https://github.com/martin8281)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔐 LexiPass
-A research tool for **password profiling and wordlist generation** from authorized input, built for security testing and password-strength research.
-
-`Python` `Security Research`
-
-> ⚠️ Authorized testing & educational use only.
-
-[🔗 View Project](https://github.com/martin8281)
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ SSH Auth Assessment Tool
-A Python + Django tool for evaluating SSH authentication weaknesses through automated testing with **real-time reporting**.
-
-`Python` `Django` `Network Security`
-
-> ⚠️ Use only on systems you own or have written permission to test.
-
-[🔗 View Project](https://github.com/martin8281)
-
-</td>
-</tr>
-</table>
-
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 📚 Experience
 
@@ -183,20 +124,20 @@ A Python + Django tool for evaluating SSH authentication weaknesses through auto
       ▼
 ```
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 📈 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=martin8281&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martin8281&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=martin8281&show_icons=true&bg_color=0b0720&border_color=3b2a7a&title_color=c4b5fd&icon_color=a855f7&text_color=e0e7ff&ring_color=8b5cf6&border_radius=16" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martin8281&layout=compact&bg_color=0b0720&border_color=3b2a7a&title_color=c4b5fd&text_color=e0e7ff&border_radius=16" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com?user=martin8281&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=martin8281&background=0b0720&border=3b2a7a&stroke=3b2a7a&ring=a855f7&fire=c4b5fd&currStreakNum=e0e7ff&sideNums=e0e7ff&currStreakLabel=c4b5fd&sideLabels=a78bfa&dates=8b7fc7&border_radius=16" alt="GitHub streak" />
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 🔭 Currently
 
@@ -205,18 +146,18 @@ A Python + Django tool for evaluating SSH authentication weaknesses through auto
 - 🌱 Learning more about **digital forensics** workflows
 - 🤝 Open to collaborations, research, hackathons, and internships
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 🌱 Beyond Code
 
 <div align="center">
 
-![Photography](https://img.shields.io/badge/📸-Photography-1f6feb?style=flat-square)
-![Design](https://img.shields.io/badge/🎨-Creative%20Design-a371f7?style=flat-square)
-![Media](https://img.shields.io/badge/🎬-Media-f85149?style=flat-square)
-![Communities](https://img.shields.io/badge/🤝-Student%20Communities-3fb950?style=flat-square)
-![Hackathons](https://img.shields.io/badge/🚀-Hackathons-d29922?style=flat-square)
-![Research](https://img.shields.io/badge/🔬-Research-00b8d4?style=flat-square)
+![Photography](https://img.shields.io/badge/📸-Photography-4c1d95?style=flat-square&labelColor=1e1b4b)
+![Design](https://img.shields.io/badge/🎨-Creative%20Design-6d28d9?style=flat-square&labelColor=1e1b4b)
+![Media](https://img.shields.io/badge/🎬-Media-7c3aed?style=flat-square&labelColor=1e1b4b)
+![Communities](https://img.shields.io/badge/🤝-Student%20Communities-8b5cf6?style=flat-square&labelColor=1e1b4b)
+![Hackathons](https://img.shields.io/badge/🚀-Hackathons-a855f7?style=flat-square&labelColor=1e1b4b)
+![Research](https://img.shields.io/badge/🔬-Research-6366f1?style=flat-square&labelColor=1e1b4b)
 
 <br/>
 
@@ -224,12 +165,12 @@ A Python + Django tool for evaluating SSH authentication weaknesses through auto
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/View-Portfolio-00E5A8?style=for-the-badge&logo=vercel&logoColor=black)](https://bycu-careers.vercel.app/?student=087_eltwct7VWBBiLffFLFFz)
-[![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/martin-thomas)
-[![GitHub](https://img.shields.io/badge/Follow%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/martin8281)
+[![Portfolio](https://img.shields.io/badge/View-Portfolio-a855f7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1e1b4b)](https://bycu-careers.vercel.app/?student=087_eltwct7VWBBiLffFLFFz)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1b4b)](https://linkedin.com/in/martin-thomas)
+[![GitHub](https://img.shields.io/badge/Follow%20on-GitHub-4c1d95?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1b4b)](https://github.com/martin8281)
 
 ⭐ *Feel free to explore my repositories and projects.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=110&section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:2e1065,100:0b0720&height=110&section=footer" alt="footer" />
 
 </div>
