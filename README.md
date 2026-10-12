@@ -19,36 +19,26 @@
 
 ## 👋 About Me
 
-I'm an **M.Sc. Artificial Intelligence & Cyber Security** student at **CHRIST (Deemed to be University), Bengaluru**, exploring the intersection of **cybersecurity, AI, digital forensics, and security research**.
+<div align="center">
+
+<img src="facts.svg" width="100%" alt="Quick facts" />
+
+</div>
+
+I'm an **M.Sc. Artificial Intelligence & Cyber Security** student exploring the intersection of **cybersecurity, AI, digital forensics, and security research**.
 
 I build projects to understand how systems work, how they can be secured, and how AI can make security analysis smarter.
 
 > 💡 *I enjoy turning academic concepts into practical projects that solve real-world security problems.*
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<br/>
 
-**🔐 Security Focus**
-- Vulnerability Assessment & Pen Testing (VAPT)
-- Web & Network Security
-- Digital Forensics
-- Security Monitoring & Log Analysis
-- Password Security & Exposure Analysis
+<div align="center">
 
-</td>
-<td width="50%" valign="top">
+<img src="about-security.svg" width="49%" alt="Security Focus" />
+<img src="about-ai.svg" width="49%" alt="AI and Research Focus" />
 
-**🤖 AI & Research Focus**
-- AI for Cybersecurity & Threat Detection
-- LLM Security & AI Red Teaming
-- Shadow AI Governance
-- Security Automation
-- Data-driven Cybersecurity
-
-</td>
-</tr>
-</table>
+</div>
 
 <img src="divider.svg" width="100%" alt="" />
 
@@ -108,21 +98,24 @@ I build projects to understand how systems work, how they can be secured, and ho
 
 ## 📚 Experience
 
-```text
-2026 ─┐
-      │  🎨  Media Head · S.H.I.E.L.D. Cyber Security & AI Club
-      │      Leading media and communication for a student community focused
-      │      on cybersecurity and emerging technologies.
-      │
-      │  🛡️  Cyber Forensics Intern · Cyber Cell, Idukki Police
-      │      Hands-on exposure to cybercrime investigation, digital evidence,
-      │      and forensic processes.
-      │
-      │  🔬  Research Intern · Indian Institute of Science (IISc), Bengaluru
-      │      One Health initiative: analytical dashboard, AI chatbot integration,
-      │      data processing, and scalable research-support solutions.
-      ▼
-```
+<div align="center">
+
+![Roles](https://img.shields.io/badge/Roles-3-a855f7?style=flat-square&labelColor=1e1b4b)
+![AI Dev](https://img.shields.io/badge/AI%20Developer-IISc-6d28d9?style=flat-square&labelColor=1e1b4b)
+![Forensics](https://img.shields.io/badge/Forensics-Cyber%20Cell-4c1d95?style=flat-square&labelColor=1e1b4b)
+![Leadership](https://img.shields.io/badge/Leadership-Samagra-7c3aed?style=flat-square&labelColor=1e1b4b)
+
+</div>
+
+<div align="center">
+
+<img src="exp-research.svg" width="100%" alt="AI and Dashboard Developer Intern" />
+
+<img src="exp-forensics.svg" width="100%" alt="Cyber Forensics Intern" />
+
+<img src="exp-media.svg" width="100%" alt="Media Head" />
+
+</div>
 
 <img src="divider.svg" width="100%" alt="" />
 
@@ -141,10 +134,22 @@ I build projects to understand how systems work, how they can be secured, and ho
 
 ## 🔭 Currently
 
-- 🔬 Exploring **LLM security** and **AI red teaming**
-- 🛠️ Building tools for **security automation** and **threat detection**
-- 🌱 Learning more about **digital forensics** workflows
-- 🤝 Open to collaborations, research, hackathons, and internships
+<table>
+<tr>
+<td width="50%" valign="top">
+
+🔬 &nbsp;Exploring **LLM security** and **AI red teaming**<br/>
+🛠️ &nbsp;Building tools for **security automation** and **threat detection**
+
+</td>
+<td width="50%" valign="top">
+
+🌱 &nbsp;Learning more about **digital forensics** workflows<br/>
+🤝 &nbsp;Open to collaborations, research, hackathons, and internships
+
+</td>
+</tr>
+</table>
 
 <img src="divider.svg" width="100%" alt="" />
 
